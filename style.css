@@ -1,0 +1,17 @@
+.tv
+{
+    width: 600px;
+    height: 300px;
+    margin-top: 200px;
+    margin-left: 550px;
+    background-color: rgb(215, 217, 218);
+}
+
+div{
+    margin-left: 800px;
+    margin-top: 20px;
+    font-size: x-large;
+    font-weight: bold;
+    color: #4b74fa;
+}
+
